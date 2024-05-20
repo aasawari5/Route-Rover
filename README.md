@@ -7,10 +7,9 @@ Route Rover is a fleet management system software that enables live tracking of 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [prerequistes]
-- [Steps]
+- [prerequistes](#prerequisites)
+- [Steps](#steps)
 - [Configuration](#configuration)
-- [Applications]
 
 ## Features
 
